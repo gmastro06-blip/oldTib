@@ -1,0 +1,4 @@
+hp_under_1:65
+to_click_1:f1
+hp_under_2:75
+to_click_2:f3

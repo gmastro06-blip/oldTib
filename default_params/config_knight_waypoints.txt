@@ -1,0 +1,11 @@
+1 . 1 ; f10 - center
+1 . 1 ; Go down
+3 . 1 ; f10 - center
+5 . 1 ; f10 - center
+7 . 1 ; f10 - center
+9 . 1 ; Go up
+9 . 2 ; Go up
+15 . 1 ; f10 - center
+17 . 1 ; Go down
+17 . 2 ; Go down
+number_of_waypoint ; 2
